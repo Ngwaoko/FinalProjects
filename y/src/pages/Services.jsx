@@ -22,9 +22,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
             <br />
             <br /> 
@@ -37,9 +35,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
             <br />
             <br />
@@ -55,9 +51,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
             <br />
             <br />
@@ -70,9 +64,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
             <br />
             <br />
@@ -89,9 +81,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
             <br />
             <br />
@@ -105,9 +95,7 @@ export const Services = () => {
             if interested
             <br />
             <button>
-              <NavLink to="Contact">
-                 Get in touch
-              </NavLink>
+            <NavLink to="/Contact">Get in touch</NavLink>
               </button>
            <br />
             <br />

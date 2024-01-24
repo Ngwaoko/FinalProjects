@@ -7,6 +7,7 @@ import { Home } from './pages/Home'
 import { About } from './pages/About'
 import { Services } from './pages/Services'
 import { Contact } from './pages/Contact'
+import { Comments } from '/src/pages/comments.jsx?t=1706094769343';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/About" element={<About />}/>
         <Route path="/Services" element={<Services />}/>
         <Route path="/Contact" element={<Contact />}/>
+        <Route path="/Comments" element={<Comments />}/>
       </Routes>
     </div>
     </>

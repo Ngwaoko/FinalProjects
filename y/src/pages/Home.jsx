@@ -93,7 +93,9 @@ export const Home = () => {
             </div>
             </div>
             <div className="ABC">
-            <button>View our comments</button>
+            <button>
+                \
+            </button>
             </div>
         </div>
 
@@ -191,23 +193,23 @@ export const Home = () => {
             </div>
             <div className="contact2">
             <form onSubmit={handleSubmit}>
-        <input type='text' value={name} placeholder='Enter name'
+        <input type='text' value={name} placeholder='  Enter name'
          onChange={(e)=>setName(e.target.value)} className='hhgg'/>
          <br></br>
          <br></br>
-         <input type='text' value={surname} placeholder='Enter surname'
+         <input type='text' value={surname} placeholder='  Enter surname'
          onChange={(e)=>setSurname(e.target.value)} className='hhgg'/>
           <br></br>
          <br></br>
-         <input type='email' value={email} placeholder='Enter email'
+         <input type='email' value={email} placeholder='  Enter email'
          onChange={(e)=>setEmail(e.target.value)} className='hhgg'/>
           <br></br>
          <br></br>
-         <input type='text' value={date} placeholder='Enter your contact'
+         <input type='text' value={date} placeholder='  Enter your contact'
          onChange={(e)=>setDate(e.target.value)} className='hhgg'/>
           <br></br>
          <br></br>
-         <input type='text' value={course} placeholder='How can we be of help'
+         <input type='text' value={course} placeholder='  How can we be of help'
          onChange={(e)=>setCourse(e.target.value)} className='hhgg'/>
           <br></br>
          <br></br>
